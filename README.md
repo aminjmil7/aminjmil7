@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aminjmil7
 - 👀 I’m interested in Angular
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning React/React Native
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me aminjmil7@gmail.com
 
